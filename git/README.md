@@ -20,4 +20,5 @@ git config remote.origin.url https://$GITUSER:$GITPW@github.com/YOUR_USERNAME/YO
 
 ### Server Certificate Verification failed
 Error message: _server certificate verification failed. CAfile: /etc/ssl/certs/ca-certificates.crt CRLfile: none_
-* [Stackoverflow Discussion](https://stackoverflow.com/questions/21181231/server-certificate-verification-failed-cafile-etc-ssl-certs-ca-certificates-c)
+* [Stackoverflow Discussion](https://stackoverflow.com/questions/35821245/github-server-certificate-verification-failed?rq=1) : See answer 10 for working solution, article linked below
+* [Git: client error, server certificate verification failed](https://fabianlee.org/2019/01/28/git-client-error-server-certificate-verification-failed/) : The Right Solution
