@@ -8,4 +8,5 @@
 3. [Babelmark 2](https://johnmacfarlane.net/babelmark2/faq.html) : Compare the output of various implementations of John Gruber’s markdown syntax for plain text documents
 
 ## Essential References
+1. [Github Keyboard shortcuts](https://docs.github.com/en/github/getting-started-with-github/using-github/keyboard-shortcuts)
 
